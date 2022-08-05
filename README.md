@@ -1,1 +1,3 @@
 # jeffardyBingo
+
+Bingo for Jeopardy.
